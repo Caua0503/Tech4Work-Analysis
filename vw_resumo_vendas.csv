@@ -1,0 +1,16 @@
+id_venda,data_venda,cliente,produto,quantidade,preco_unitario,valor_total
+1,2025-06-10,Empresa Alfa Ltda,"Monitor 27"" Full HD",2,1200.0,2400.0
+1,2025-06-10,Empresa Alfa Ltda,Teclado Mecânico RGB,2,400.0,800.0
+1,2025-06-10,Empresa Alfa Ltda,Teclado Mecânico RGB,2,400.0,800.0
+1,2025-06-10,Empresa Alfa Ltda,Teclado Mecânico RGB,2,400.0,800.0
+1,2025-06-10,Empresa Alfa Ltda,Teclado Mecânico RGB,2,400.0,800.0
+2,2025-06-11,Empresa Alfa Ltda,Mouse Ergonômico Wireless,5,150.0,750.0
+3,2025-06-12,Carlos Henrique,Teclado Mecânico RGB,1,280.0,280.0
+4,2025-06-13,Carlos Henrique,Webcam Full HD,1,220.0,220.0
+11,2025-07-11,Carlos Henrique,Teclado Mecânico RGB,2,280.0,560.0
+5,2025-07-01,Startup Beta,Headset Bluetooth com Microfone,3,300.0,900.0
+6,2025-07-02,Startup Beta,Cadeira Gamer TechPro,1,950.0,950.0
+7,2025-07-05,Juliana Dias,Suporte para Notebook,2,120.0,240.0
+8,2025-07-06,Juliana Dias,Hub USB-C 6 em 1,1,180.0,180.0
+9,2025-07-10,TechOne Soluções,Mesa Ajustável Elétrica,2,1800.0,3600.0
+10,2025-07-11,TechOne Soluções,Teclado e Mouse Combo Wireless,5,210.0,1050.0
