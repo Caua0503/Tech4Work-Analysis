@@ -15,5 +15,17 @@ Implementei duas triggers para garantir a integridade absoluta do inventário:
 ## 🐍 Pipeline ETL (Python)
 * **`main_etl_process.py`**: Script que realiza a extração do banco MySQL, limpeza de dados com **Pandas** e gera o arquivo `vw_resumo_vendas.csv` para análise executiva.
 
+## 📊 Visualização de Dados (Power BI)
+
+O output final do pipeline é um dashboard estratégico que permite acompanhar o desempenho comercial da startup em tempo real.
+
+![Painel de Vendas Tech4Work](./PAINEL_VENDAS.PNG.png)
+
+### Principais Insights do Painel:
+* **Faturamento Total:** R$ 143 Mil consolidados.
+* **Top Products:** Identificação clara de que Teclados Mecânicos e Mesas Ajustáveis lideram as vendas.
+* **Análise de Clientes:** Distribuição percentual de faturamento por carteira de clientes.
+* **Tendência Temporal:** Gráficos de linha mostrando a evolução das vendas dia a dia.
+
 ## 📊 Tecnologias
 MySQL (Procedures, Triggers, Cursors), Python (Pandas, SQLAlchemy), Business Intelligence.
